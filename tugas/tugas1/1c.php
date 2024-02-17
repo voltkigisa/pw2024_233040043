@@ -90,7 +90,6 @@
         }
             </style>
         </head>
-</head>
 <body>
     <div class="kotak">
         <div class="kotak1">1</div>
